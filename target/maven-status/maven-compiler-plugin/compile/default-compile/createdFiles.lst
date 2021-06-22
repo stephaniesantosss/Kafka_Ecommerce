@@ -1,0 +1,8 @@
+br/com/alura/ecommerce/LogService.class
+br/com/alura/ecommerce/FraudeDetectorService.class
+br/com/alura/ecommerce/EmailService.class
+br/com/alura/ecommerce/NewOrderMain.class
+br/com/alura/ecommerce/ConsumerFunction.class
+br/com/alura/ecommerce/KafkaDispatcher.class
+br/com/alura/ecommerce/Order.class
+br/com/alura/ecommerce/KafkaService.class

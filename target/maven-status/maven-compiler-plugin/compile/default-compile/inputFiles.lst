@@ -1,0 +1,8 @@
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/src/main/java/br/com/alura/ecommerce/ConsumerFunction.java
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/src/main/java/br/com/alura/ecommerce/KafkaService.java
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/src/main/java/br/com/alura/ecommerce/Order.java
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/src/main/java/br/com/alura/ecommerce/LogService.java
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/src/main/java/br/com/alura/ecommerce/KafkaDispatcher.java
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/src/main/java/br/com/alura/ecommerce/FraudeDetectorService.java
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/src/main/java/br/com/alura/ecommerce/EmailService.java
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/src/main/java/br/com/alura/ecommerce/NewOrderMain.java

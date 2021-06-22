@@ -1,0 +1,5 @@
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/KafkaService.java
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/GsonSerealizer.java
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/GsonDeserealizer.java
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/KafkaDispatcher.java
+/home/stephanie/Documentos/Repositorio/Kafka_Ecommerce/common-kafka/src/main/java/br/com/alura/ecommerce/ConsumerFunction.java
